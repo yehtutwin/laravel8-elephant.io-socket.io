@@ -25,5 +25,5 @@ php artisan serve
 > Node.JS Server - chat-example
 ```
 cd chat-example
-node inde.js
+node index.js
 ```
